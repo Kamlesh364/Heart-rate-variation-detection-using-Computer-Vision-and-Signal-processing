@@ -20,7 +20,7 @@ Requirements:
 
 Quickstart:
 ------------
-
+- [Measuring Heart Rate from Video](https://web.stanford.edu/class/cs231a/prev_projects_2016/finalReport.pdf) Isabel BushStanford Computer Science
 - run get_pulse_from_video.py to start the programme
 
 ```
