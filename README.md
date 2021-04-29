@@ -13,7 +13,7 @@ Pulse-detector-using-Computer Vision
 Requirements:
 ---------------
 
-- [Python v2.7 or v3.5+)](http://python.org/)
+- [Python v3.5+](http://python.org/)
 - [OpenCV v2+](http://opencv.org/)
 - Numpy, Scipy
 
