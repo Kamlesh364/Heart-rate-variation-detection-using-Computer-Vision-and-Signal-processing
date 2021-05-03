@@ -195,7 +195,7 @@ if __name__ == "__main__":
     # Find OpenCV version
     (major_ver, minor_ver, subminor_ver) = (cv2.__version__).split('.')
 
-    video_cap = cv2.VideoCapture('./source_video4.mp4')
+    video_cap = cv2.VideoCapture('./source_video1.mp4')
 
     # get FPS
     if int(major_ver) < 3:
